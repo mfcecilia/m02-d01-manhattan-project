@@ -42,18 +42,27 @@ power, I checked to see if the application followed a specific constraints:
     entire ecosystem from being destroyed by a glorified trash can)
   3. Its purpose does not include destroying living things.
 
-Thus, after long hours of research, I finally came across a few applications of
+Thus, after long hours of research, I finally came across an application of
 nuclear science with some promise. Seeing as I am not a nuclear physicist, I imagine
 there are aspects of it which I am unable to understand as being either helpful or harmful.
 
-  1. Project Orion (nuclear propulsion)
-    One of many proposals which utilizes "the principle of external nuclear pulse
-    propulsion to maximize survivable power ... and has remained common among serious
-    concepts for interstellar flight without external power beaming and for very
-    high-performance interplanetary flight." Of the many potential problems that
-    were identified, the primary one was in regards to nuclear fallout -- the indirect
-    affects on human lives as a result of such explosive nuclear activity.
+Project Orion (nuclear propulsion)
+https://en.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion)
 
-    https://en.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion)#Potential_problems
+Project Orion is one of many proposals which utilizes "the principle of external
+nuclear pulse propulsion to maximize survivable power ... and has remained common
+among serious concepts for interstellar flight without external power beaming and
+for very high-performance interplanetary flight." Of the many potential problems
+that were identified, the biggest unknown was in regards to nuclear fallout -- the
+indirect affects on human lives as a result of such explosive nuclear activity.
 
-  2.
+It has since been shelved for many reasons, unfortunately none of those reasons
+were specifically related to the danger to human life.
+
+I believe not many words need to be said to defend the development of intarstellar
+space travel. It may be our last chance at survival as a human race.
+
+Neil deGrasse Tyson, an American scientist and astrophysicist has already begun
+to see the tale tell signs of our planet's demise.
+
+http://www.cnn.com/2017/09/17/us/neil-degrasse-tyson-on-climate-change-cnntv/index.html
