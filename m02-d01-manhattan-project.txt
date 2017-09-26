@@ -3,15 +3,16 @@
 */
 
 "I am become Death, the destroyer of worlds"
-
   https://www.youtube.com/watch?v=lb13ynu3Iac
 
 There are measurable affects to the use of nuclear power and immeasurable affects.
 
 J. Robert Oppenheimer was an American physicist known as the "Father of the Atomic Bomb".
-The quote he recited was from the Bhagavad Gita. Within the context of the Hindu
-text, it describes a scene where fullfilling one's duty becomes difficult due the
-way it conflicts with one's beliefs.
+The quote he recited after testing the atomic bomb was from the Bhagavad Gita (Youtube,
+"J. Robert Oppenheimer: 'I am become Death, the destroyer or worlds'").
+Within the context of the Hindu text, it describes a scene where fullfilling one's
+duty becomes difficult due the way it conflicts with one's beliefs (Bhagavad
+Gita 11:32).
 
 It was his commentary after the testing of the atomic bomb which led me to read
 the Bhagavad Gita for myself. He was also the one who led me to explore my own
@@ -47,7 +48,6 @@ nuclear science with some promise. Seeing as I am not a nuclear physicist, I ima
 there are aspects of it which I am unable to understand as being either helpful or harmful.
 
 Project Orion (nuclear propulsion)
-https://en.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion)
 
 Project Orion is one of many proposals which utilizes "the principle of external
 nuclear pulse propulsion to maximize survivable power ... and has remained common
@@ -55,14 +55,13 @@ among serious concepts for interstellar flight without external power beaming an
 for very high-performance interplanetary flight." Of the many potential problems
 that were identified, the biggest unknown was in regards to nuclear fallout -- the
 indirect affects on human lives as a result of such explosive nuclear activity.
-
 It has since been shelved for many reasons, unfortunately none of those reasons
-were specifically related to the danger to human life.
+were specifically related to the danger to human life (Flora, "Project Orion:
+Its Life, Death, and Possible Rebirth").
 
 I believe not many words need to be said to defend the development of intarstellar
 space travel. It may be our last chance at survival as a human race.
 
 Neil deGrasse Tyson, an American scientist and astrophysicist has already begun
-to see the tale tell signs of our planet's demise.
-
-http://www.cnn.com/2017/09/17/us/neil-degrasse-tyson-on-climate-change-cnntv/index.html
+to see the tale tell signs of our planet's demise (CNN, "Neil deGrasse Tyson says
+it might be 'too late' to recover ").
