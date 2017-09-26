@@ -29,3 +29,19 @@ Not very many people could have developed such a weapon. That fact in and of its
 is a form of protection against the destruction of civilization. What I found to
 be strange was the fact that so many decisions were driven by fear. Feynman decided
 to help with the creation of the bomb out of fear that the Germans would do it first.
+
+Considering the nature of nuclear power, there seems to be no way in which to use
+it without harming every living thing around it. Desposing of the nuclear waste is
+just as harmful. The question is whether or not something so radioactive really
+can do enough good to outweigh the harm. In trying to find an application of nuclear
+power, I checked to see if the application followed a specific constraints:
+
+  1. Does not require massive amounts of nuclear power (to prevent the destruction
+    of an entire ecosystem in the production process)
+  2. Does not generate a large amount of toxic waste (to prevent an
+    entire ecosystem from being destroyed by a glorified trash can)
+  3. Its purpose does not include destroying living things.
+
+Thus, after long hours of research, I finally came across an application of nuclear
+science with some promise. Seeing as I am not a nuclear physicist, I imagine there
+are aspects of it which I am unable to understand as being either helpful or harmful.
